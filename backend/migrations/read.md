@@ -1,0 +1,2 @@
+-- backup table trong database
+-- giup tao bang

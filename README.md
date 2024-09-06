@@ -13,11 +13,7 @@ Website Vinabook là một ứng dụng web được phát triển bằng **Reac
 3. Chọn `Import from Self-Contained File` và chọn tệp `vinabook_db.sql` từ máy tính của bạn.
 4. Chọn cơ sở dữ liệu đích và nhấp vào nút `Start Import`.
 
-- login admin page:
-
-* username: admin@gmail.com || pass: 1 hoặc: user: wq || pass: 1
-* url admin page: http://localhost:3000/admin/home
-* Đăng Nhập Admin
+- Đăng Nhập Admin
 
       Tài Khoản Admin1:
           Username: admin@gmail.com
